@@ -14,16 +14,22 @@ sudo apt-get install -y \
 # Core Packages
 sudo apt-get install -y \
         xorg \
+        xinit \
+        x11-xserver-utils \
+        xserver-xorg-video-amdgpu \
         xorg-dev \
         xbacklight \
         xbindkeys \
         xvkbd \
         xinput \
         xclip \
-        build-essential \
         xdotool \
         libnotify-bin \
         libnotify-dev \
+        clangd \
+        make \
+        curl \
+        wget \
 
 # UI Packages
 sudo apt-get install -y \
