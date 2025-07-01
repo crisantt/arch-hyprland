@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Dependencies
-sudo apt install -y libconfig-dev \
+sudo apt install -y xinit \
+libconfig-dev \
 libdbus-1-dev \
 libegl-dev \
 libev-dev \
@@ -33,3 +34,4 @@ libimlib2-dev \
 libxinerama-dev \
 libxcb-res0-dev \
 alsa-utils \
+build-essential \
