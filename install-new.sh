@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Dependencies
 sudo apt install -y libconfig-dev \
 libdbus-1-dev \
 libegl-dev \
