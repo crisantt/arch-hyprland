@@ -8,3 +8,5 @@ sudo pacman -S smartmontools polkit-kde-agent qt5-wayland qt6-wayland uwsm wget 
 
 #user packages
 sudo pacman -S dunst dolphin kitty hyprland htop
+
+mkdir -p ~/.config/uwsm
