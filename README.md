@@ -1,1 +1,1 @@
-# dwm-debian
+# Arch-Hyprland
