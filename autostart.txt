@@ -1,0 +1,3 @@
+if [[ -z $DISPLAY ]] && [[ -z $WAYLAND_DISPLAY ]]; then
+    exec ~/.local/bin/start-hyprland
+fi
